@@ -1,0 +1,9 @@
+.env
+*.log
+*.pid
+*.sock
+node_modules/
+dist/
+__pycache__/
+.vscode/
+docker-volumes/
